@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Samadhan2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -16,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Samadhan2005/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
