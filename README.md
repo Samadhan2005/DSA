@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Samadhan2005/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Samadhan2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samadhan2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samadhan2005/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Samadhan2005/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Samadhan2005/DSA/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Samadhan2005/DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
