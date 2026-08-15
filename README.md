@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Samadhan2005/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Samadhan2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Samadhan2005/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Samadhan2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Samadhan2005/DSA/tree/master/0905-sort-array-by-parity) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samadhan2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samadhan2005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Samadhan2005/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Samadhan2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Samadhan2005/DSA/tree/master/0148-sort-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Samadhan2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
