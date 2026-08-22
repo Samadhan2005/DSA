@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Samadhan2005/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Samadhan2005/DSA/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Samadhan2005/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Samadhan2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samadhan2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Samadhan2005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samadhan2005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Samadhan2005/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Samadhan2005/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Samadhan2005/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Samadhan2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Samadhan2005/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Samadhan2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Samadhan2005/DSA/tree/master/0143-reorder-list) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Samadhan2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Samadhan2005/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Samadhan2005/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Samadhan2005/DSA/tree/master/0242-valid-anagram) |
