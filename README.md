@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Samadhan2005/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samadhan2005/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Samadhan2005/DSA/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/Samadhan2005/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Samadhan2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Samadhan2005/DSA/tree/master/0905-sort-array-by-parity) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samadhan2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Samadhan2005/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Samadhan2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Samadhan2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samadhan2005/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Samadhan2005/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Samadhan2005/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
