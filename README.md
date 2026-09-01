@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Samadhan2005/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samadhan2005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Samadhan2005/DSA/tree/master/0242-valid-anagram) |
+| [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Samadhan2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Samadhan2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Samadhan2005/DSA/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Range Minimum/Maximum Query
 |  |
