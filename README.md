@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samadhan2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Samadhan2005/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Samadhan2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Samadhan2005/DSA/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samadhan2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Samadhan2005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Samadhan2005/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samadhan2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Samadhan2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Samadhan2005/DSA/tree/master/0049-group-anagrams) |
