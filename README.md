@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samadhan2005/DSA/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Samadhan2005/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Samadhan2005/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Samadhan2005/DSA/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -258,18 +260,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
@@ -292,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
