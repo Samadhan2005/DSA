@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Samadhan2005/DSA/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3498-reverse-degree-of-a-string](https://github.com/Samadhan2005/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Samadhan2005/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Samadhan2005/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
