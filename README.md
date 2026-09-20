@@ -258,16 +258,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -288,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
