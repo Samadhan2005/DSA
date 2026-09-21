@@ -14,25 +14,43 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        ArrayList<Integer> list1=new ArrayList<>();
-        ArrayList<Integer> list2=new ArrayList<>();
-
-        getInorder(p,list1);
-        getInorder(q,list2);
-
-        return list1.equals(list2);
-
-
-    }
-    private void getInorder(TreeNode root, ArrayList<Integer> list){
-        if(root==null){
-            list.add(null);
-            return;
+    public boolean isSameTree(TreeNode p, TreeNode q){
+        if(p==null && q==null){
+            return true;
         }
-        list.add(root.val);
-        getInorder(root.left,list);
-        
-        getInorder(root.right,list);
+        if(p==null || q==null){
+            return false;
+        }
+
+        if(p.val !=q.val){
+            return false;
+        }
+
+        return isSameTree(p.left,q.left) &&
+              isSameTree(p.right,q.right);
     }
+
+
+
+    // public boolean isSameTree(TreeNode p, TreeNode q) {
+    //     ArrayList<Integer> list1=new ArrayList<>();
+    //     ArrayList<Integer> list2=new ArrayList<>();
+
+    //     getInorder(p,list1);
+    //     getInorder(q,list2);
+
+    //     return list1.equals(list2);
+
+
+    // }
+    // private void getInorder(TreeNode root, ArrayList<Integer> list){
+    //     if(root==null){
+    //         list.add(null);
+    //         return;
+    //     }
+    //     list.add(root.val);
+    //     getInorder(root.left,list);
+        
+    //     getInorder(root.right,list);
+    // }
 }
