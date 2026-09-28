@@ -1,27 +1,20 @@
 class Solution {
     public int maxProduct(int[] nums) {
+        int perfix=1;
+        int suffix=1;
+        int n=nums.length;
+        int maxpro=Integer.MIN_VALUE;
 
-        int maxProduct = nums[0];
-        int currMax = nums[0];
-        int currMin = nums[0];
+        for(int i=0;i<n;i++){
 
-        for (int i = 1; i < nums.length; i++) {
+            if(perfix==0) perfix=1;
+            if(suffix==0) suffix=1;
 
-            int num = nums[i];
+            perfix*=nums[i];
+            suffix*=nums[n-i-1];
 
-            // Negative number swaps max and min
-            if (num < 0) {
-                int temp = currMax;
-                currMax = currMin;
-                currMin = temp;
-            }
-
-            currMax = Math.max(num, currMax * num);
-            currMin = Math.min(num, currMin * num);
-
-            maxProduct = Math.max(maxProduct, currMax);
+            maxpro=Math.max(maxpro,Math.max(perfix,suffix));
         }
-
-        return maxProduct;
+        return maxpro;
     }
 }
