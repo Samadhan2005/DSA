@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Samadhan2005/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samadhan2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Samadhan2005/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Samadhan2005/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Samadhan2005/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Samadhan2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -368,5 +370,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Samadhan2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
