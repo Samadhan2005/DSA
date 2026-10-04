@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Samadhan2005/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Samadhan2005/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samadhan2005/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Samadhan2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Samadhan2005/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/0226-invert-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Samadhan2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Samadhan2005/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -386,12 +388,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Samadhan2005/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Samadhan2005/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samadhan2005/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Samadhan2005/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -400,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0022-generate-parentheses) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
