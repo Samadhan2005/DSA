@@ -4,7 +4,6 @@ class Solution {
         int closing=0;
 
         for(char ch:s.toCharArray()){
-         
             if(ch=='('){
                 stack.push(ch);
             }
@@ -15,7 +14,6 @@ class Solution {
                 else{
                     closing++;
                 }
-
             }
         }
         return stack.size()+closing;
