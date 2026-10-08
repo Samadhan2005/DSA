@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Samadhan2005/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samadhan2005/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Samadhan2005/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Samadhan2005/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Samadhan2005/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Samadhan2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Samadhan2005/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samadhan2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Samadhan2005/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samadhan2005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Samadhan2005/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Samadhan2005/DSA/tree/master/0162-find-peak-element) |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Samadhan2005/DSA/tree/master/0802-find-eventual-safe-states) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Samadhan2005/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
