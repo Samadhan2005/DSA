@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Samadhan2005/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Samadhan2005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samadhan2005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Samadhan2005/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Samadhan2005/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Samadhan2005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samadhan2005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Recursion
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Samadhan2005/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Samadhan2005/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Samadhan2005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Samadhan2005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Samadhan2005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Range Minimum/Maximum Query
 |  |
